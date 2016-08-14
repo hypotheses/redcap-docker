@@ -4,7 +4,7 @@
 
 
 #need local cron for redcap so rebasing on phusions fat container image
-FROM phusion/baseimage:0.9.15
+FROM phusion/baseimage:0.9.19
 MAINTAINER Amos Folarin <amosfolarin@gmail.com>
 
 # Set correct environment variables.
