@@ -17,7 +17,7 @@
 # Database Container: MySQL
 #------------------------------------------------------------------------------
 
-FROM tutum/mysql
+FROM mysql:5.7
 
 MAINTAINER Amos Folarin <amosfolarin@gmail.com>
 
